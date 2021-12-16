@@ -2,6 +2,7 @@ import React from 'react';
 import Common from './Common';
 import web from "../src/images/blogging.svg";
 const Home = () =>{
+  console.log("skdjnfsfdnsdlkfnkdfn")
   return(
     <>
       <Common 
